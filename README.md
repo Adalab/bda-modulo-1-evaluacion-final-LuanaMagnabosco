@@ -2,11 +2,13 @@
 
 bda-modulo-1-evaluacion-final-LuanaMagnabosco created by GitHub Classroom
 
-# Módulo_1_Bootcamp_Análisis de Datos _PT_Promo_A_Ángela_Ruiz_Robles - README:
+# Módulo_1_Bootcamp_Análisis de Datos _PT
+
+# Promo_A_Ángela_Ruiz_Robles - README:
 
 # Evaluación final
 
-Este archivo README proporciona información sobre el examen de Evaluacion Final Modulo 1.
+Este archivo README proporciona información sobre el examen de Evaluación Final Módulo 1.
 
 ## Contenido del Repositorio
 
