@@ -6,7 +6,7 @@ bda-modulo-1-evaluacion-final-LuanaMagnabosco created by GitHub Classroom
 
 # Promo_A_Ángela_Ruiz_Robles - README:
 
-# Evaluación final
+# Evaluación final Luana Magnabosco
 
 Este archivo README proporciona información sobre el examen de Evaluación Final Módulo 1.
 
