@@ -1,3 +1,15 @@
 # bda-modulo-1-evaluacion-final-LuanaMagnabosco
+
 bda-modulo-1-evaluacion-final-LuanaMagnabosco created by GitHub Classroom
-bda-modulo-1-evaluacion-final-LuanaMagnabosco
+
+# Módulo_1_Bootcamp_Análisis de Datos _PT_Promo_A_Ángela_Ruiz_Robles - README:
+
+# Evaluación final
+
+Este archivo README proporciona información sobre el examen de Evaluacion Final Modulo 1.
+
+## Contenido del Repositorio
+
+- **`Enunciado Ejercicio.ipynb`**: Archivo que contiene las preguntas del examen.
+- **`Evaluacion_final_LuanaMagnabosco.ipynb`**: Archivo que contiene el codigo solicitado a través de las preguntas del examen.
+- **`README.md`**: Este archivo que proporciona información sobre el examen.
